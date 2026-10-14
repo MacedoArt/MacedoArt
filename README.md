@@ -23,8 +23,8 @@ Arthur Macedo. Desenvolvedor focado em Python, automação de processos e dados.
 arthur@macedoart:~$ cat areas.txt
 [+] Automação de processos e ferramentas internas
 [+] Web scraping e coleta estruturada de dados
-[+] Análise de dados e inteligência comercial
-[+] Aplicações web com Astro, JavaScript e TypeScript
+[+] Análise de dados, machine learning e inteligência comercial
+[+] Aplicações web e APIs com Django e Flask
 
 arthur@macedoart:~$ cat principios.txt
 [*] Código limpo, legível e fácil de manter
@@ -35,7 +35,26 @@ arthur@macedoart:~$ cat principios.txt
 ## `> stack`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,astro,html,css,c,java,git,github,vscode&perline=11&theme=dark" alt="stack"/>
+  <img src="https://skillicons.dev/icons?i=python,django,flask,sklearn,js,ts,html,css,c,java,git,github,vscode&perline=13&theme=dark" alt="stack"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=00FF9C" alt="Django"/>
+  <img src="https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=00FF9C" alt="Flask"/>
+  <img src="https://img.shields.io/badge/Streamlit-0D1117?style=for-the-badge&logo=streamlit&logoColor=00FF9C" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=00FF9C" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=00FF9C" alt="NumPy"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Scikit%20Learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=00FF9C" alt="Scikit Learn"/>
+  <img src="https://img.shields.io/badge/Mlxtend-0D1117?style=for-the-badge&logo=python&logoColor=00FF9C" alt="Mlxtend"/>
+  <img src="https://img.shields.io/badge/ONNX%20Runtime-0D1117?style=for-the-badge&logo=onnx&logoColor=00FF9C" alt="ONNX Runtime"/>
+  <img src="https://img.shields.io/badge/Plotly-0D1117?style=for-the-badge&logo=plotly&logoColor=00FF9C" alt="Plotly"/>
+  <img src="https://img.shields.io/badge/Matplotlib-0D1117?style=for-the-badge&logo=python&logoColor=00FF9C" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/NetworkX-0D1117?style=for-the-badge&logo=python&logoColor=00FF9C" alt="NetworkX"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Requests-0D1117?style=for-the-badge&logo=python&logoColor=00FF9C" alt="Requests"/>
+  <img src="https://img.shields.io/badge/OpenPyXL-0D1117?style=for-the-badge&logo=python&logoColor=00FF9C" alt="OpenPyXL"/>
+  <img src="https://img.shields.io/badge/Pillow-0D1117?style=for-the-badge&logo=python&logoColor=00FF9C" alt="Pillow"/>
 </p>
 
 ## `> metrics`
@@ -66,6 +85,12 @@ arthur@macedoart:~$ cat principios.txt
 </p>
 
 <br/>
+
+<p align="center">
+  <img src="assets/espada-preta.svg" height="200" alt=""/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/espada-branca.svg" height="200" alt=""/>
+</p>
 
 <p align="center">
   <code>&gt; conexão encerrada_</code>
